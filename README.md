@@ -79,7 +79,6 @@ In this screens, the news articles on shown in a list view and cards view
 
 <div display="flex" align="center" border-left="2px solid white">
 <img src="https://github.com/HarshaVoleti/WeatherApp/blob/main/screenshots/listview.png" width="200" height="400" >
-</div>
 <img src="https://github.com/HarshaVoleti/QuickNews/blob/main/screenshots/cardsview.png" width="200" height="400" >
 </div>
 
