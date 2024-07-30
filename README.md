@@ -78,7 +78,7 @@ After installing our app.
 In this screens, the news articles on shown in a list view and cards view
 
 <div display="flex" align="center" border-left="2px solid white">
-<img src="https://github.com/HarshaVoleti/WeatherApp/blob/main/screenshots/listview.png" width="200" height="400" >
+<img src="https://github.com/HarshaVoleti/QuickNews/blob/main/screenshots/listview.png" width="200" height="400" >
 <img src="https://github.com/HarshaVoleti/QuickNews/blob/main/screenshots/cardsview.png" width="200" height="400" >
 </div>
 
@@ -86,7 +86,7 @@ In this screens, the news articles on shown in a list view and cards view
 when you click on a news card, a detailed news will be showsn in the detailed screen mentioned below
 
 <div display="flex" align="center" border-left="2px solid white">
-<img src="https://github.com/HarshaVoleti/Quicknews/blob/main/screenshots/newspage.png" width="200" height="400" >
+<img src="https://github.com/HarshaVoleti/QuickNews/blob/main/screenshots/newspage.png" width="200" height="400" >
 </div>
 
 ## 🛠️ Built With
